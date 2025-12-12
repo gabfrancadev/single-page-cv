@@ -6,3 +6,5 @@ The implementation includes semantic HTML elements throughout the document, SEO 
 
 This project serves as a foundation for practicing semantic markup and clean structure. The next step will be applying CSS to improve visual design, layout, and responsiveness. To view the result, simply open the index.html file in a browser.
 
+Project URL: https://roadmap.sh/projects/single-page-cv
+

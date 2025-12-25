@@ -20,7 +20,7 @@ The goal of this project is to practice basic HTML structure, semantic tags, and
 - Writing meaningful HTML without relying on styling
 
 ## Live Preview
-gabfrancadev.github.io/single-page-cv/
+https://gabfrancadev.github.io/single-page-cv/
 
 ## Credits
 This project was developed as a learning exercise following a front-end development roadmap.

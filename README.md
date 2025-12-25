@@ -1,10 +1,30 @@
-Single-Page CV
+# Single Page CV
 
-This project is an implementation of the "Single-Page CV" challenge from roadmap.sh. The goal was to build a curriculum vitae using only HTML, focusing on semantic structure and a clear, readable layout. The project emphasizes proper HTML semantics, accessibility, and basic SEO practices, preparing the page for future styling with CSS.
+This project is a simple single-page curriculum vitae developed as part of a front-end roadmap exercise.
 
-The implementation includes semantic HTML elements throughout the document, SEO meta tags, Open Graph tags for better social media sharing, and a linked favicon. The page follows a single-page structure containing personal information, skills, education, professional experience, and links to online profiles. No CSS or JavaScript was used, as required by the challenge.
+The goal of this project is to practice basic HTML structure, semantic tags, and content organization without using CSS or JavaScript.
 
-This project serves as a foundation for practicing semantic markup and clean structure. The next step will be applying CSS to improve visual design, layout, and responsiveness. To view the result, simply open the index.html file in a browser.
+## Technologies Used
+- HTML5
+
+## Project Features
+- Single-page layout
+- Semantic HTML structure
+- Clear separation of sections (profile, experience, skills, education)
+- Clean and readable markup
+
+## What I Learned
+- Structuring documents with semantic HTML
+- Proper use of headings and sections
+- Organizing content in a clear and accessible way
+- Writing meaningful HTML without relying on styling
+
+## Live Preview
+gabfrancadev.github.io/single-page-cv/
+
+## Credits
+This project was developed as a learning exercise following a front-end development roadmap.
+Project URL: https://roadmap.sh/projects/single-page-cv
 
 Project URL: https://roadmap.sh/projects/single-page-cv
 
